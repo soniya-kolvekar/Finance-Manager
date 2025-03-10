@@ -1,0 +1,155 @@
+{
+    "users": {
+        "soniya": {
+            "password": "123",
+            "income": [
+                {
+                    "amount": 1000.0,
+                    "source": "salary",
+                    "date": "2025-03-09"
+                },
+                {
+                    "amount": 1000.0,
+                    "source": "salary",
+                    "date": "2025-03-09"
+                },
+                {
+                    "amount": 1000.0,
+                    "source": "salary",
+                    "date": "2025-03-09"
+                },
+                {
+                    "amount": 200.0,
+                    "source": "gift",
+                    "date": "2025-03-09"
+                }
+            ],
+            "expenses": [
+                {
+                    "category": "Food",
+                    "amount": 100.0,
+                    "description": "luncb",
+                    "date": "2025-03-09"
+                },
+                {
+                    "category": "food",
+                    "amount": 20.0,
+                    "description": "lunch",
+                    "date": "2025-03-09"
+                }
+            ],
+            "balance": 3200.0,
+            "budget": {
+                "food": 200.0,
+                "rent": 2000.0,
+                "rent ": 100.0
+            },
+            "goals": {
+                "vacation": {
+                    "target_amount": 10000.0,
+                    "current_savings": 500.0
+                },
+                "personal": {
+                    "target_amount": 100.0,
+                    "current_savings": 0
+                }
+            },
+            "investments": [
+                {
+                    "type": "stocks",
+                    "amount": 200.0,
+                    "start_date": "2025-03-09",
+                    "current_value": 300.0
+                }
+            ],
+            "loans": [
+                {
+                    "loan_name": "home loan",
+                    "loan_amount": 10000.0,
+                    "interest_rate": 10.0,
+                    "tenure": 5,
+                    "emi": 212.47,
+                    "remaining_amount": 9700.0
+                }
+            ],
+            "debts": [
+                {
+                    "debt_name": "personal",
+                    "debt_amount": 200.0,
+                    "due_date": "2025-03-09",
+                    "paid_amount": 200.0
+                }
+            ]
+        },
+        "nidhi": {
+            "password": "100",
+            "income": [
+                {
+                    "amount": 10000.0,
+                    "source": "salary",
+                    "date": "2025-03-09"
+                }
+            ],
+            "expenses": [
+                {
+                    "category": "food",
+                    "amount": 100.0,
+                    "description": "lunch",
+                    "date": "2025-03-09"
+                }
+            ],
+            "balance": 10000.0,
+            "budget": {
+                "food": 100.0
+            },
+            "goals": {},
+            "investments": [],
+            "loans": [],
+            "debts": []
+        },
+        "adarsh": {
+            "password": "13",
+            "income": [],
+            "expenses": [],
+            "balance": 0,
+            "budget": {},
+            "goals": {},
+            "investments": [],
+            "loans": [],
+            "debts": []
+        },
+        "shreya": {
+            "password": "2",
+            "income": [],
+            "expenses": [],
+            "balance": 0,
+            "budget": {},
+            "goals": {},
+            "investments": [],
+            "loans": [],
+            "debts": []
+        },
+        "so": {
+            "password": "3",
+            "income": [],
+            "expenses": [],
+            "balance": 0,
+            "budget": {},
+            "goals": {},
+            "investments": [],
+            "loans": [],
+            "debts": []
+        },
+        "do": {
+            "password": "5o97",
+            "income": [],
+            "expenses": [],
+            "balance": 0,
+            "budget": {},
+            "goals": {},
+            "investments": [],
+            "loans": [],
+            "debts": []
+        }
+    }
+}
